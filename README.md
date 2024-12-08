@@ -12,7 +12,7 @@ This project detects faces in an image using MATLAB's **CascadeObjectDetector**.
 ---
 
 ## Requirements  
-- MATLAB (R2020a or newer recommended).  
+- MATLAB (R2024a or older recommended).  
 
 ---
 
